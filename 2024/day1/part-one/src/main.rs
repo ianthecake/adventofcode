@@ -1,4 +1,4 @@
-// adventofcode DAY1-1
+// adventofcode DAY 1-1
 //
 // Read two lists from a file containing numbers.
 // Pair up the smallest number in the left list with the smallest number in the right list,
