@@ -1,7 +1,7 @@
 # ADVENTOFCODE
 
-These are my solutions to the code excersizes from [adventofcode](https://adventofcode.com/).\n
-I tried to solve them with Rust.
-
-Each excersize is explained in the code comments.\n
+These are my solutions to the code excersizes from **[adventofcode](https://adventofcode.com/)**.\n
+<br>
+2023 is written in **C++* and 2024 in **Rust**.
+<br>
 Feel free to explore!
